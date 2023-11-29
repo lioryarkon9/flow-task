@@ -1,0 +1,36 @@
+.container {
+}
+
+.row {
+  display: flex;
+  height: 50px;
+  border-bottom: 1px solid;
+}
+
+.tableCell {
+  padding: 2px;
+  border-right: 1px solid;
+}
+
+.headerCell {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  border-right: 1px solid;
+  padding: 2px;
+}
+
+.userNameCell {
+  width: 200px;
+}
+
+.idCell {
+  width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.titleCell {
+  width: 400px;
+}
